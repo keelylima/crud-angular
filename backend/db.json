@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta Bic Preta",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Estojo Rainbow",
+            "price": 10.99
+        },
+        {
+            "id": 3,
+            "name": "Lapiseira Faber Castell",
+            "price": 12.50
+        }
+    ]
+}
